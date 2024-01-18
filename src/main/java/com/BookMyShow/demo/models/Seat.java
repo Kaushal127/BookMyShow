@@ -13,5 +13,4 @@ public class Seat extends BaseModel{
     private int row ;
     private int col ;
 
-
 }
